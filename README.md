@@ -1,7 +1,6 @@
 # start: 2024/5/6 7:00
 
-# current progress: page 35/710
-- [ ] chapter 1: Introduction and overview
+- [ ] (2024/5/6 7:00 - ) Chapter 1: Introduction and overview, page 35-94
 
 ### [book: Quantum-Computation-and-Quantum-Information-10th-Anniversary-Edition-2010](https://profmcruz.files.wordpress.com/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
 
