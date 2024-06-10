@@ -16,3 +16,7 @@
 
 ### https://www.quantum-quest.org/
 ### https://www.quantum-quest.org/material
+
+--- 
+
+- [ ] (2024/6/10 12:00 - )Chapter 1: Introduction and overview, page 35-94
