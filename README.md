@@ -19,4 +19,4 @@
 
 --- 
 
-- [ ] (2024/6/10 12:00 - )Chapter 1: Introduction and overview, page 35-94
+- [ ] (2024/6/10 12:00 - )Chapter 1: Introduction and overview, page 56-94
