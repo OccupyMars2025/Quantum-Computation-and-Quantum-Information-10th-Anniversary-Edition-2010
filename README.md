@@ -22,4 +22,5 @@
 
 --- 
 
-- [ ] (2024/6/10 12:00 - )Chapter 1: Introduction and overview, page 56-94
+- [ ] (2024/6/10 12:00 - )  https://www.quantum-quest.org/
+- [ ] Chapter 1: Introduction and overview, page 56-94
