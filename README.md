@@ -1,7 +1,7 @@
 # start: 2024/5/6 7:00
 
-# [2024/4/11: ​Prof. Luming Duan’s group achieves largest-scale ion trap quantum simulation](https://www.tsinghua.edu.cn/en/info/1399/13499.htm)
-# [2024/4/11: A Site-Resolved 2D Quantum Simulator with Hundreds of Trapped Ions](https://arxiv.org/abs/2311.17163)
+## [2024/4/11: ​Prof. Luming Duan’s group achieves largest-scale ion trap quantum simulation](https://www.tsinghua.edu.cn/en/info/1399/13499.htm)
+## [2024/4/11: A Site-Resolved 2D Quantum Simulator with Hundreds of Trapped Ions](https://arxiv.org/abs/2311.17163)
 
 ---
 
