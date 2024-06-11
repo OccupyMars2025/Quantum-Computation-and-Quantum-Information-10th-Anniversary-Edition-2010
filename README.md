@@ -22,5 +22,5 @@
 
 --- 
 
-- [ ] (2024/6/10 12:00 - )  https://www.quantum-quest.org/
+- [ ] (2024/6/10 12:00 - )  https://www.quantum-quest.org/, (for high school students)
 - [ ] Chapter 1: Introduction and overview, page 56-94
