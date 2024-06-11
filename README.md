@@ -19,7 +19,7 @@
 # tools:
 ### https://github.com/Strilanc/Quirk
 ### https://algassert.com/
-### https://qutip.org/
+### https://qutip.org/,  create visual representations of quantum states and operations.
 
 --- 
 
