@@ -16,9 +16,10 @@
 
 ### https://www.quantum-quest.org/
 ### https://www.quantum-quest.org/material
-## Quantum Simulator:
+# tools:
 ### https://github.com/Strilanc/Quirk
 ### https://algassert.com/
+### https://qutip.org/
 
 --- 
 
