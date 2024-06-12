@@ -14,7 +14,7 @@
 ### [book: Quantum-Computation-and-Quantum-Information-10th-Anniversary-Edition-2010](https://profmcruz.files.wordpress.com/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
 
 
-### https://www.quantum-quest.org/
+### https://www.quantum-quest.org/, https://github.com/qi-rub/Quirky
 ### https://www.quantum-quest.org/material
 # tools:
 ### https://github.com/Strilanc/Quirk
