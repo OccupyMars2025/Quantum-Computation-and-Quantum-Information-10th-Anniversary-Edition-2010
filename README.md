@@ -4,6 +4,8 @@
 ## 2024/6/30: Warm-up competition works submission
 ## 2024/7/15: Initial competition works submission
 ## 2024/8/4:  Final competition works submission
+
+## Contest: https://github.com/qiskit-community/ibm-quantum-challenge-2024
 ---
 
 ## [2024/4/11: ​Prof. Luming Duan’s group achieves largest-scale ion trap quantum simulation](https://www.tsinghua.edu.cn/en/info/1399/13499.htm)
