@@ -26,5 +26,6 @@
 --- 
 
 - [x] (2024/6/10 12:00 - 6/12 23:04)  https://www.quantum-quest.org/, (for high school students), Quest 1: Maestro of probability, page 5-21
-- [ ] (2024/6/12 23:04 - )  Quest 2: Conqueror of the qubit, page 21-43
+- [x] (2024/6/12 23:04 - 6/15 17:33)  Quest 2: Conqueror of the qubit, page 21-43
+- [ ] (2024/6/15 17:33 - )  Quest 3: Wizard of entanglement, page 43-75
 - [ ] Chapter 1: Introduction and overview, page 56-94
