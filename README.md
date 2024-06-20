@@ -28,6 +28,7 @@
 - [x] (2024/6/10 12:00 - 6/12 23:04)  https://www.quantum-quest.org/, (for high school students), Quest 1: Maestro of probability, page 5-21
 - [x] (2024/6/12 23:04 - 6/15 17:33)  Quest 2: Conqueror of the qubit, page 21-43
 ### TODO: Homework 2.5, Exercise 2.8: Broken leg and arm 
-- [ ] (2024/6/15 17:33 - )  Quest 3: Wizard of entanglement, page 43-75
+- [x] (2024/6/15 17:33 - 6/20 10:00)  Quest 3: Wizard of entanglement, page 43-75
+- [ ] (2024/6/20 10:00 - ) Quest 4: Quantum composer, page 75-97
 - [ ] https://www.qmunity.tech/
 - [ ] Chapter 1: Introduction and overview, page 56-94
