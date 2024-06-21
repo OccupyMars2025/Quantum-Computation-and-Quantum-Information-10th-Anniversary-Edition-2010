@@ -8,8 +8,11 @@
 ## Contest: https://github.com/qiskit-community/ibm-quantum-challenge-2024
 ---
 
-## [第一届“天衍”量子计算挑战先锋赛](https://qc.zdxlz.com/learn/#/megagame/Index?lang=zh)
-## [20万奖金！“天衍”量子计算挑战先锋赛“燃”起来啦！](https://qc.zdxlz.com/news/articleDetail?id=1803956791635185666&title=0&lang=zh)
+## [The first "Tianyan" quantum computing challenge pioneer competition](https://qc.zdxlz.com/learn/#/megagame/Index?lang=zh)
+## [200,000 yuan prize! The "Tianyan" Quantum Computing Challenge Pioneer Competition is on fire!](https://qc.zdxlz.com/news/articleDetail?id=1803956791635185666&title=0&lang=zh)
+
+
+
 
 ---
 
