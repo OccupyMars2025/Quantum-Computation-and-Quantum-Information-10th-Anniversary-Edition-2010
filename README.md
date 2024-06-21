@@ -17,6 +17,7 @@
 ## [2024/4/11: A Site-Resolved 2D Quantum Simulator with Hundreds of Trapped Ions](https://arxiv.org/abs/2311.17163)
 
 # http://www.qtc.com.cn/
+# https://www.quantum-inspire.com/
 
 ---
 
