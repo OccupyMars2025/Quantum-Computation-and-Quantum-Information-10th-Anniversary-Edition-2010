@@ -11,6 +11,8 @@
 ## [第一届“天衍”量子计算挑战先锋赛](https://qc.zdxlz.com/learn/#/megagame/Index?lang=zh)
 ## [20万奖金！“天衍”量子计算挑战先锋赛“燃”起来啦！](https://qc.zdxlz.com/news/articleDetail?id=1803956791635185666&title=0&lang=zh)
 
+---
+
 ## [2024/4/11: ​Prof. Luming Duan’s group achieves largest-scale ion trap quantum simulation](https://www.tsinghua.edu.cn/en/info/1399/13499.htm)
 ## [2024/4/11: A Site-Resolved 2D Quantum Simulator with Hundreds of Trapped Ions](https://arxiv.org/abs/2311.17163)
 
