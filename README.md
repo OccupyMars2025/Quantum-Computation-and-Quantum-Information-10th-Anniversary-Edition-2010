@@ -5,15 +5,17 @@
 ## 2024/7/15: Initial competition works submission
 ## 2024/8/4:  Final competition works submission
 
-## Contest: https://github.com/qiskit-community/ibm-quantum-challenge-2024
 ---
 
 ## [2024/6/17 - 8/12: The first "Tianyan" quantum computing challenge pioneer competition](https://qc.zdxlz.com/learn/#/megagame/Index?lang=zh)
 ## [200,000 yuan prize! The "Tianyan" Quantum Computing Challenge Pioneer Competition is on fire!](https://qc.zdxlz.com/news/articleDetail?id=1803956791635185666&title=0&lang=zh)
 
 
+---
 
-
+## contests:
+### https://www.iquise.mit.edu/iQuHACK/2023-01-27
+### https://github.com/qiskit-community/ibm-quantum-challenge-2024
 ---
 
 ## [2024/4/11: ​Prof. Luming Duan’s group achieves largest-scale ion trap quantum simulation](https://www.tsinghua.edu.cn/en/info/1399/13499.htm)
@@ -21,6 +23,7 @@
 
 # http://www.qtc.com.cn/
 # https://www.quantum-inspire.com/
+# [MIT Quantum Photonics](https://x.com/MitQpg)
 
 ---
 
