@@ -44,7 +44,8 @@
 ### TODO: Homework 2.5, Exercise 2.8: Broken leg and arm 
 - [x] (2024/6/15 17:33 - 6/20 10:00)  Quest 3: Wizard of entanglement, page 43-75
 - [x] (2024/6/20 10:00 - 6/22 10:00)  Quest 4: Quantum composer, page 75-97
-- [ ] (2024/6/22 10:00 - ) Quest 5: Algorithm virtuoso
+- [x] (2024/6/22 10:00 - 6/24 16:40)  Quest 5: Algorithm virtuoso
+### TODO: Homework 5.6
 - [ ] https://www.qmunity.tech/
-- [ ] Chapter 1: Introduction and overview, page 56-94
+- [ ] (6/24 16:40 - )Chapter 1: Introduction and overview, page 56-94
 
