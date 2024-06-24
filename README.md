@@ -47,5 +47,5 @@
 - [x] (2024/6/22 10:00 - 6/24 16:40)  Quest 5: Algorithm virtuoso
 ### TODO: Homework 5.6
 - [ ] https://www.qmunity.tech/
-- [ ] (6/24 16:40 - )Chapter 1: Introduction and overview, page 56-94
+- [ ] (6/24 16:40 - )Chapter 1: Introduction and overview, page 48-94
 
