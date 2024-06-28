@@ -24,6 +24,7 @@
 # http://www.qtc.com.cn/
 # https://www.quantum-inspire.com/
 # [MIT Quantum Photonics](https://x.com/MitQpg)
+# https://github.com/rigetti
 
 ---
 
