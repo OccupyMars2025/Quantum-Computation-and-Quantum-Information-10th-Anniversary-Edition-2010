@@ -1,7 +1,8 @@
 # start: 2024/5/6 7:00
 
 ## [2024/4/8 - 6/30: The 6th MindSpore Quantum Computing Hackathon 2024](https://competition.huaweicloud.com/information/1000042022/introduction)
-## [learning material](https://competition.huaweicloud.com/information/1000042022/html9)
+## [MindSpore Quantum doc](https://www.mindspore.cn/mindquantum/docs/en/master/index.html)
+## [learning material of the contest](https://competition.huaweicloud.com/information/1000042022/html9)
 ## (done)2024/6/30: Warm-up competition works submission
 ## 2024/7/15: Initial competition works submission
 ## 2024/8/4:  Final competition works submission
