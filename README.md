@@ -1,5 +1,21 @@
 # start: 2024/5/6 7:00
 
+- [x] (2024/6/10 12:00 - 6/12 23:04)  https://www.quantum-quest.org/, (for high school students), Quest 1: Maestro of probability, page 5-21
+- [x] (2024/6/12 23:04 - 6/15 17:33)  Quest 2: Conqueror of the qubit, page 21-43
+### TODO: Homework 2.5, Exercise 2.8: Broken leg and arm 
+- [x] (2024/6/15 17:33 - 6/20 10:00)  Quest 3: Wizard of entanglement, page 43-75
+- [x] (2024/6/20 10:00 - 6/22 10:00)  Quest 4: Quantum composer, page 75-97
+- [x] (2024/6/22 10:00 - 6/24 16:40)  Quest 5: Algorithm virtuoso
+      
+---
+
+- [ ] 2024/7/12: https://en.wikipedia.org/wiki/Quantum_logic_gate
+### TODO: Homework 5.6
+- [ ] https://www.qmunity.tech/
+- [ ] (6/24 16:40 - )Chapter 1: Introduction and overview, page 48-94
+
+---
+
 ## [2024/4/8 - 6/30: The 6th MindSpore Quantum Computing Hackathon 2024](https://competition.huaweicloud.com/information/1000042022/introduction)
 ## [MindSpore Quantum doc](https://www.mindspore.cn/mindquantum/docs/en/master/index.html)
 ## [learning material of the contest](https://competition.huaweicloud.com/information/1000042022/html9)
@@ -41,21 +57,6 @@
 ### https://algassert.com/
 ### https://qutip.org/,  create visual representations of quantum states and operations.
 
---- 
-
-- [x] (2024/6/10 12:00 - 6/12 23:04)  https://www.quantum-quest.org/, (for high school students), Quest 1: Maestro of probability, page 5-21
-- [x] (2024/6/12 23:04 - 6/15 17:33)  Quest 2: Conqueror of the qubit, page 21-43
-### TODO: Homework 2.5, Exercise 2.8: Broken leg and arm 
-- [x] (2024/6/15 17:33 - 6/20 10:00)  Quest 3: Wizard of entanglement, page 43-75
-- [x] (2024/6/20 10:00 - 6/22 10:00)  Quest 4: Quantum composer, page 75-97
-- [x] (2024/6/22 10:00 - 6/24 16:40)  Quest 5: Algorithm virtuoso
-- [ ] 
----
-
-- [ ] 2024/7/12: https://en.wikipedia.org/wiki/Quantum_logic_gate
-### TODO: Homework 5.6
-- [ ] https://www.qmunity.tech/
-- [ ] (6/24 16:40 - )Chapter 1: Introduction and overview, page 48-94
 ---
 # How to design a quantum computer ? Recommend some textbooks
 Designing a quantum computer involves understanding quantum mechanics, quantum information theory, and practical aspects of implementing quantum algorithms. Here are some recommended textbooks that cover various aspects of quantum computing and can help you get started:
