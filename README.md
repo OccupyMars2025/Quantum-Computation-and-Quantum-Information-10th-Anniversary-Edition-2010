@@ -6,13 +6,12 @@
 - [x] (2024/6/15 17:33 - 6/20 10:00)  Quest 3: Wizard of entanglement, page 43-75
 - [x] (2024/6/20 10:00 - 6/22 10:00)  Quest 4: Quantum composer, page 75-97
 - [x] (2024/6/22 10:00 - 6/24 16:40)  Quest 5: Algorithm virtuoso
-      
+### TODO: Homework 5.6
+
 ---
 
-- [ ] 2024/7/12: https://en.wikipedia.org/wiki/Quantum_logic_gate
-### TODO: Homework 5.6
-- [ ] https://www.qmunity.tech/
-- [ ] (6/24 16:40 - )Chapter 1: Introduction and overview, page 48-94
+- [x] 2024/7/12: https://en.wikipedia.org/wiki/Quantum_logic_gate
+- [ ] 7/13: Chapter 1: Introduction and overview, page 47-94
 
 ---
 
@@ -44,6 +43,7 @@
 # https://www.quantum-inspire.com/
 # [MIT Quantum Photonics](https://x.com/MitQpg)
 # https://github.com/rigetti
+## https://www.qmunity.tech/
 
 ---
 
