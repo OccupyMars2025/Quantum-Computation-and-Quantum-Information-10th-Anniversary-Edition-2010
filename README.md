@@ -12,6 +12,9 @@
 
 - [x] 2024/7/12: https://en.wikipedia.org/wiki/Quantum_logic_gate
 - [x] 7/13 6:00 - 17:30: Chapter 1: Introduction and overview, page 47-60
+
+### Quantum mechanics is easy to learn, despite its reputation as a difficult subject. The reputation comes from the difficulty of some applications, like understanding the structure of complicated molecules, which aren’t fundamental to a grasp of the subject; we won’t be discussing such applications. The only prerequisite for understanding is some familiarity with elementary linear algebra. Provided you have this background you can begin working out simple problems in a few hours, even with no prior knowledge of the subject.
+### In our opinion the chief obstacle to assimilation of the postulates of quantum mechanics is not the postulates themselves, but rather the large body of linear algebraic notions required to understand them. Coupled with the unusual Dirac notation adopted by physicists for quantum mechanics, it can appear (falsely) quite fearsome. For these reasons, we advise the reader not familiar with quantum mechanics to quickly read through the material which follows, pausing mainly to concentrate on understanding the absolute basics of the notation being used. Then proceed to a careful study of the main topic of the chapter – the postulates of quantum mechanics – returning to study the necessary linear algebraic notions and notations in more depth, as required.
 - [ ] 7/13 17:30 - : Chapter 2: Introduction to quantum mechanics, page 60-120
 
 ---
