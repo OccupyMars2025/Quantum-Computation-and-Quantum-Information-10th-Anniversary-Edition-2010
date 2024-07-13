@@ -56,3 +56,4 @@
 ### https://github.com/Strilanc/Quirk
 ### https://algassert.com/
 ### https://qutip.org/,  create visual representations of quantum states and operations.
+### https://quantumcomputing.stackexchange.com/
