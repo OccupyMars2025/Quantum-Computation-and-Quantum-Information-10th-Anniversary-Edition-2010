@@ -11,7 +11,8 @@
 ---
 
 - [x] 2024/7/12: https://en.wikipedia.org/wiki/Quantum_logic_gate
-- [ ] 7/13: Chapter 1: Introduction and overview, page 47-94
+- [x] 7/13 6:00 - 17:30: Chapter 1: Introduction and overview, page 47-60
+- [ ] 7/13 17:30 - : Chapter 2: Introduction to quantum mechanics, page 60-120
 
 ---
 
