@@ -1,3 +1,5 @@
+# [Patients are dying ! How can quantum computing be used in drug discovery ?](https://github.com/OccupyMars2025/Quantum-Computation-and-Quantum-Information-10th-Anniversary-Edition-2010/blob/main/How%20%20can%20quantum%20computing%20be%20used%20in%20drug%20discovery.md)
+
 # start: 2024/5/6 7:00
 
 - [x] (2024/6/10 12:00 - 6/12 23:04)  https://www.quantum-quest.org/, (for high school students), Quest 1: Maestro of probability, page 5-21
