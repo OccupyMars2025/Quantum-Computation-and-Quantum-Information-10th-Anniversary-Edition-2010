@@ -21,6 +21,14 @@
 
 ---
 
+## [2024/6/17 - 8/12: The first "Tianyan" quantum computing challenge pioneer competition](https://qc.zdxlz.com/learn/#/megagame/Index?lang=zh)
+## special prize: 30000 yuan
+## first prize: 15000 yuan/track
+## [200,000 yuan prize! The "Tianyan" Quantum Computing Challenge Pioneer Competition is on fire!](https://qc.zdxlz.com/news/articleDetail?id=1803956791635185666&title=0&lang=zh)
+
+
+---
+
 ## [2024/4/8 - 6/30: The 6th MindSpore Quantum Computing Hackathon 2024](https://competition.huaweicloud.com/information/1000042022/introduction)
 ## [MindSpore Quantum doc](https://www.mindspore.cn/mindquantum/docs/en/master/index.html)
 ## [learning material of the contest](https://competition.huaweicloud.com/information/1000042022/html9)
@@ -30,11 +38,6 @@
 
 ---
 
-## [2024/6/17 - 8/12: The first "Tianyan" quantum computing challenge pioneer competition](https://qc.zdxlz.com/learn/#/megagame/Index?lang=zh)
-## [200,000 yuan prize! The "Tianyan" Quantum Computing Challenge Pioneer Competition is on fire!](https://qc.zdxlz.com/news/articleDetail?id=1803956791635185666&title=0&lang=zh)
-
-
----
 
 ## contests:
 ### https://www.iquise.mit.edu/iQuHACK/2023-01-27
